@@ -2,10 +2,31 @@
 
 ### Day 0: October 18, 2023
 
-**Progress**: I have joined 100 days challenge, Created github repo and started logging.
+**Progress**: 
+- I have joined 100 days challenge, Created github repo and started logging.
+- Watched the [talk](https://portal.gitnation.org/contents/towards-a-standard-library-for-javascript-runtimes) by Towards a Standard Library for JavaScript Runtimes by James Snell
 
-**Thoughts:** I wanted to have this challenge generic since on daily basis I am working on different things. So I have decided to have this challenge as 100 days of scale up. I will be working on different things which will help me to scale up in my career.
+**Thoughts:** 
+- I didn't wanted to start this challenge for specific area or skill set, since on daily basis I am working on different things and differnt areas. I get ideas and opportunities to learn many differnt things and topics, So I have decided to have this challenge as 100 days of scale up. I will be working on different things which will help me to scale up in my career.
 
-Also I wanted to make sure I spent at least 1 hour daily on this challenge and log my progress. This will also give me a chance to learn new things and share my experience with others consistently.
+- About the talk: Towards a Standard Library for JavaScript Runtimes by James Snell
+    - I found the talk very interesting, what James proposed is to have a new collaborative open-source effort which should be preferably driven jointly by contrinutors to NodeJS, Deno and other JS runtimes to develop a library of common APIs independent of runtimes
+    - So waht is the problem today, we have different runtimes and each runtime has its own set of APIs, so if you are using NodeJS and you want to use some APIs which are not available in NodeJS but available in Deno, then you have to use some third party library which will provide you the same functionality.
+    For example, creating base64 from string, you can do that by any of the following
+    ```javascript
+        // NodeJS
+        const base64 = Buffer.from('Hello World').toString('base64');
+        // Browser
+        const base64 = btoa('Hello World');
+        // Deno
+        import {encode} from "https://deno.land/std/encoding/base64.ts";
+        encode('Hello World');
+        // npm package
+        import {encode} from "base64";
+        encode('Hello World');
+    ```
+    So if you observe above code, you have multiple ways to do same thing in your own runtime, even we have packages which you can use to do same thing, why?
+    Why we can't have a single standard library which can be used across all runtimes, so that we don't have to worry about the APIs and we can focus on our business logic.
 
-**Link to work:** [100 Days Of Scale Up](README.md)
+**Links to work:** 
+- [100 Days Of Scale Up](README.md)
