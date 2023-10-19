@@ -36,6 +36,7 @@
 **Progress:**
 - Learned about `monorepo` and how it can be benifited
    - Also learned how big companies like Google, Facebook, Twitter, Microsoft, Airbnb, Uber, Netflix, etc are using monorepo
+- Learned about `npm workspace` and how we can levarge to manage repository with multiple packages
 
 **Thoughts:**
 - I still feel I haven't understood `monorepo` completed but breifly what I understood is, monorepo is a single repository which contains multiple projects, so instead of having multiple repositories for each project, we can have a single repository which will contain all the projects.
@@ -48,7 +49,13 @@
         -- project3
     ```
 
+- Got to know and learn about `npm workspace` which can be leverage to manage multiple packages in single repository. It is very easy to setup and use.
+    - multiple packages are nothing but smaller projects with own package.json
+- It also give flexibility of having shared dependencies between packages, so if you have multiple packages and they are using same dependencies, then you can have those dependencies in root package.json and all the packages can use them.
+- To let npm know that you are using workspace, you have to add `workspaces` property in root package.json and specify the packages which you want to use as workspace.
 
 **Links to work:**
+- [monorepo]('./Projects/monorepo')
 
 **References:**
+- [Getting Started with npm Workspaces](https://ruanmartinelli.com/posts/npm-7-workspaces-1)
