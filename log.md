@@ -2,7 +2,7 @@
 
 ### Day 0: October 18, 2023
 
-**Progress**: 
+**Progress:**
 - I have joined 100 days challenge, Created github repo and started logging.
 - Watched the [talk](https://portal.gitnation.org/contents/towards-a-standard-library-for-javascript-runtimes) by Towards a Standard Library for JavaScript Runtimes by James Snell
 
@@ -33,8 +33,22 @@
 ---
 ### Day 1: October 19, 2023
 
-**Progress**: 
+**Progress:**
+- Learned about `monorepo` and how it can be benifited
+   - Also learned how big companies like Google, Facebook, Twitter, Microsoft, Airbnb, Uber, Netflix, etc are using monorepo
 
 **Thoughts:**
+- I still feel I haven't understood `monorepo` completed but breifly what I understood is, monorepo is a single repository which contains multiple projects, so instead of having multiple repositories for each project, we can have a single repository which will contain all the projects.
+    - Example: Here all the projects are in single repository and each of them represnts independent project. They also might share a common code or compononets.
+
+    ```
+    -- monorepo
+        -- project1
+        -- project2
+        -- project3
+    ```
+
 
 **Links to work:**
+
+**References:**
