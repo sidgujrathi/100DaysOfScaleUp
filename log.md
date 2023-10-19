@@ -55,7 +55,7 @@
 - To let npm know that you are using workspace, you have to add `workspaces` property in root package.json and specify the packages which you want to use as workspace.
 
 **Links to work:**
-- [monorepo]('./Projects/monorepo')
+- [monorepo]('https://github.com/sidgujrathi/100DaysOfScaleUp/tree/main/Projects/monorepo')
 
 **References:**
 - [Getting Started with npm Workspaces](https://ruanmartinelli.com/posts/npm-7-workspaces-1)
