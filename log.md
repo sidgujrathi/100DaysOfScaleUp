@@ -30,3 +30,11 @@
 
 **Links to work:** 
 - [100 Days Of Scale Up](README.md)
+---
+### Day 1: October 19, 2023
+
+**Progress**: 
+
+**Thoughts:**
+
+**Links to work:**
