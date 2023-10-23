@@ -7,5 +7,4 @@ Beyond my daily responsibilities, I'm gearing up for the next milestone in my so
 ## Contents
 
 - [Log](./log.md)
-
-
+- [Resources](./Resources.md)
