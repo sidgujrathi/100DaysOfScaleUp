@@ -77,3 +77,19 @@
 **References:**
 
 - [dev container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
+
+---
+
+### Day 5: October 23, 2023
+
+**Progress:**
+- Today I have worked on the list of resources for my scale up challenge.
+
+**Thoughts:**
+
+- When I decided to start this challenge I didn't have any plan ready with me for these 100 days nor I have list of resources, list of topics or things to learn. I just started with the idea of scale up and I will figure out the rest of the things as I go.
+- On daily basis I was going through multiple random sites, blogs or reources to gain knowledge and bewtween yesterday and today I have created a list of resources which I will be using for this challenge.
+- This will give me a steamlined approach to decide topics for the day and manage time better
+
+**Links to work:**
+- [Resources](Resources.md)
