@@ -59,3 +59,21 @@
 
 **References:**
 - [Getting Started with npm Workspaces](https://ruanmartinelli.com/posts/npm-7-workspaces-1)
+
+---
+
+### Day 2,3,4: October 20,21,22 2023
+
+**Progress:**
+- Because of Production sprint planning and Friday activities didn't get much time to go rough much but I do read about dev container
+- Nothing new for Weekend, due to personal commitments again get very less time to go through much. But I did try to continue on checking dev containers
+
+**Thoughts:**
+
+- I find idea of dev container really interesting, it is a way to leverage docker container to setup develpment workflow and tools for your project. It is very easy to setup and use.
+- Using IDE extentions and .devcontainer.json file you can setup your development environment in docker container. It can include all the tools and dependencies which you need for your project.
+- Your IDE then will use this container to setup your development environment, so you don't have to worry about installing all the tools and dependencies on your local machine.
+
+**References:**
+
+- [dev container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
