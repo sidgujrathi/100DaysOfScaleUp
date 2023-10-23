@@ -1,4 +1,4 @@
-# #100DaysOfScaleUp
+<h1 align="center">#100DaysOfScaleUp</h1>
 
 I'm a Senior Software Engineer based in India, currently serving as a Technical Lead at a leading organization. My role covers Project Planning, Technical Guidance, Collaboration, and Team Management. As part of a 100-day challenge, I'm on a journey to level up in these domains.
 
