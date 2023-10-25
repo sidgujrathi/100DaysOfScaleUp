@@ -111,3 +111,4 @@
 
 **References:**
 - [ActivityPub](https://www.w3.org/TR/activitypub/)
+- [Tantek Celik](https://tantek.com/)
