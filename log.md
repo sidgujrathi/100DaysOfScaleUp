@@ -112,6 +112,8 @@
 - [ActivityPub](https://www.w3.org/TR/activitypub/)
 - [Tantek Celik](https://tantek.com/)
 
+---
+
 ### Day 7: October 25, 2023
 
 **Progress:**
