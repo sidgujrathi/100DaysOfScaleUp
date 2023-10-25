@@ -106,9 +106,16 @@
 - I feel this could be future of social network, not sure when but this will be future, everone will have there own site instead going to one specific site for social networking.
 
 **Links to work:**
-- **TODO**:
-    - Create a presentation or diagram to understand the pub better
+- [ActivityPub - The Protocol Decentralised Social Networking](https://dev.to/siddharth_g/activitypub-the-protocol-decentralised-social-networking-3nom)
 
 **References:**
 - [ActivityPub](https://www.w3.org/TR/activitypub/)
 - [Tantek Celik](https://tantek.com/)
+
+### Day 7: October 25, 2023
+
+**Progress:**
+- I learned more about Activity Pub to understand the basics, the needs and uses
+
+**Links to work:**
+- [ActivityPub - The Protocol Decentralised Social Networking](https://dev.to/siddharth_g/activitypub-the-protocol-decentralised-social-networking-3nom)
