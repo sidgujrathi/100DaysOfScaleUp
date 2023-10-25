@@ -93,3 +93,21 @@
 
 **Links to work:**
 - [Resources](Resources.md)
+
+---
+
+### Day 6: October 24, 2023
+
+**Progress:**
+- Learned about [ActivityPub](https://www.w3.org/TR/activitypub/) and what is it.
+
+**Thoughts:**
+- ActivityPub is a protocol for building decentralized social networking applications. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and subscribing to content.
+- I feel this could be future of social network, not sure when but this will be future, everone will have there own site instead going to one specific site for social networking.
+
+**Links to work:**
+- **TODO**:
+    - Create a presentation or diagram to understand the pub better
+
+**References:**
+- [ActivityPub](https://www.w3.org/TR/activitypub/)
