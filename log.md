@@ -121,3 +121,19 @@
 
 **Links to work:**
 - [ActivityPub - The Protocol Decentralised Social Networking](https://dev.to/siddharth_g/activitypub-the-protocol-decentralised-social-networking-3nom)
+
+---
+
+### Day 8: October 26, 2023
+
+**Progress:**
+- Started with NextJS, learning what is framework is about, how it works
+**Thoughts:**
+- Started looking into NextJS so I understand SSR and SSC, server side rendering and static site generation better. What are use cases and case studies
+- Another reason is to understand market standards and what is trending in market, so I can scale up myself accordingly.
+- Also how other applications / platforms using SSR in scale
+
+**References:**
+
+- [NextJS](https://nextjs.org/)
+- [Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=2864s)
