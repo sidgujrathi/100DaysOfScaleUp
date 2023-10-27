@@ -137,3 +137,18 @@
 
 - [NextJS](https://nextjs.org/)
 - [Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=2864s)
+
+---
+
+### Day 9: October 27, 2023
+
+**Progress:**
+
+- Learned about React Server Component which is differnt from Server Side Rendered Component
+- Checking on NextJS for SSR, RSR(React Server Component) and SSG(Static Site Generation)
+- Checking how we scaleup NextJS application
+
+**Thoughts:**
+
+- This learning so far is very interesting, since it is purely from Front end perspective and I am more of a backend developer, so it is giving me a different perspective to look at things.
+- Also it is interesting to see how other players are using nextjs or similar framework to implement web applications
