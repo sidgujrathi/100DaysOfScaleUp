@@ -152,3 +152,18 @@
 
 - This learning so far is very interesting, since it is purely from Front end perspective and I am more of a backend developer, so it is giving me a different perspective to look at things.
 - Also it is interesting to see how other players are using nextjs or similar framework to implement web applications
+
+---
+
+### Day 10: October 30, 2023
+
+**Progress:**
+
+- Took break for weekend to reflect on laste 9 days if I am going in right directions
+- Understood the need of Coding doing as Tech Lead and also understood how other staff engineers and tech leads are doing coding in market
+- Went back to Book: Building Second Brain by Tiago Forte to restructure my setup.
+
+**Thoughts:**
+
+- I think I need to change course of my learning to code more and also gain more experience as senior software engineer
+- Need more areas listed for this scale up project
