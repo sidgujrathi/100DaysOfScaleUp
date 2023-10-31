@@ -167,3 +167,21 @@
 
 - I think I need to change course of my learning to code more and also gain more experience as senior software engineer
 - Need more areas listed for this scale up project
+
+---
+
+### Day 11: October 31, 2023
+
+**Progress:**
+
+- Today's targets are 2 things which I already started exploring this morning
+    - _Back to Basics_: I am again going through all core concepts from Javascripts, reading again Javascript: Good Parts by Douglas Crockford
+    - Understanding ExpressJS framework code and how it is built
+
+**Thoughts:**
+
+- Today, my target will be understanding ExpressJS framework code and how it is built with core JS concepts used with that code
+
+**Resources:**
+
+- ExpressJS Github Repo: https://github.com/expressjs
