@@ -185,3 +185,13 @@
 **Resources:**
 
 - ExpressJS Github Repo: https://github.com/expressjs
+
+---
+
+### Day 12: November 6, 2023
+
+**Progress:**
+
+- There is too little progress in terms of the learning, the reason being I feel because of lack of clear targets and goals I am not sure on daily task and checklist.
+- usually for this challenge clear list of task and goal is must have and will help to get consistancy in place
+- From past of few days I am working on these same items to align my plan and aspiration
