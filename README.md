@@ -4,6 +4,10 @@ I'm a Senior Software Engineer based in India, currently serving as a Technical 
 
 Beyond my daily responsibilities, I'm gearing up for the next milestone in my software engineering career. This challenge keeps me committed, disciplined, and eager to share my experiences along the way. 🚀
 
+## Overview and Motivation
+
+![Alt text](./100DaysOfChallenge.svg)
+
 ## Contents
 
 - [Log](./log.md)

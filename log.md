@@ -212,6 +212,4 @@
 
 ***Links to work:***
 
-- TODO - Add link to explaination of path
-- List of items to work on 
-- Checklist for daily progress
+- [100DaysOfScaleUp](./100DaysOfChallenge.svg)
