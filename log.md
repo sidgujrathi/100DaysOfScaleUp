@@ -195,3 +195,23 @@
 - There is too little progress in terms of the learning, the reason being I feel because of lack of clear targets and goals I am not sure on daily task and checklist.
 - usually for this challenge clear list of task and goal is must have and will help to get consistancy in place
 - From past of few days I am working on these same items to align my plan and aspiration
+
+---
+
+### Day 13: November 14, 2023
+
+***Thoughts:***
+
+- 8 Days, 8 Days of retrospective and thinking on how to move forward with this challenge. I needed clear picture on a Goal and plan for this challeng.
+- Not only plan but clear set of tasks and checklist to follow on daily basis.
+- Finally I see clear picture on where I am at today and at what direction I need to move forward.
+
+***Progress:***
+
+- I have started to understand the career path and responsibilities of Senior software engineer to Staff Software Engineer to Principal Solftware Engineer etc
+
+*** Links to work:***
+
+- TODO - Add link to explaination of path
+- List of items to work on 
+- Checklist for daily progress
