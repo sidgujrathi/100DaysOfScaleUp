@@ -210,7 +210,7 @@
 
 - I have started to understand the career path and responsibilities of Senior software engineer to Staff Software Engineer to Principal Solftware Engineer etc
 
-*** Links to work:***
+***Links to work:***
 
 - TODO - Add link to explaination of path
 - List of items to work on 
