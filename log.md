@@ -213,3 +213,17 @@
 ***Links to work:***
 
 - [100DaysOfScaleUp](./100DaysOfChallenge.svg)
+
+### Day 14: November 16, 2023
+
+***Progress:***
+
+- Learn about Task Queues, specifically from Celery, a Python based task queue to coordinate task across multiple workers
+- Also Learned about Big O notation to measure the performance of the algorithm
+- Understood more about the Staff Engineer and the role 
+- Learned about coalescing opeartor in Javascript (?? opearator)
+- Got to know about IP casting - UnitCast, MultiCast, BroadCast
+
+***Thoughts:***
+- I am still bit confuse on Task Queues and Message Queues. In my opinion it is also depends on the language and framework you are building a product in since in some cases Message queue is also enough
+- I found double question mark found very interesting
