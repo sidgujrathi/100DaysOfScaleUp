@@ -227,3 +227,17 @@
 ***Thoughts:***
 - I am still bit confuse on Task Queues and Message Queues. In my opinion it is also depends on the language and framework you are building a product in since in some cases Message queue is also enough
 - I found double question mark found very interesting
+
+---
+
+### Day 15: November 20, 2023
+
+***Progress:***
+- System Design
+    - Was curious on how online streaming platform works, especially large scale such as hotstar when it is steaming World Cup Cricket match which is being watched by 4.5 cr viewers at same time
+    - Got to know about RTMP and SRT protocols which are used for streaming. Will check on these 2 in deep later
+    - Learned about CDN and Distributed File System, again need to check on these 2 in detail
+    - Learned how to think while someone ask to design a system
+
+- JS / NodeJS core
+    - None so far today
